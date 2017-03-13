@@ -10,6 +10,9 @@ Welcome and congratulations on making it to this phase of your application proce
 
 The best sign of success for students who have joined the Product College in the past has been their hard work and dedication to solving problems and building things even before they entered the Product College. So both to prepare you for day one of the Product College and to give you a bit of a challenge, we'd like you to build an original product as part of your application.
 
+
+### How to Build the Product
+
 Here are three ways we suggest that you follow to build a product and complete your application to the Product College:
 
 1. Prepare for and attend the Summer Academy. Ship at least one original app to the app store. (Scholarships & financing available)
@@ -30,6 +33,8 @@ The product does not need to be very complex (actually the simpler the better). 
 If you are having trouble coming up with an idea for a product, look for problems, frictions, or themes around you in your life or the lives of people around you. 
 
 Preference is given to fully shipped products written in Swift, JavaScript, Ruby, and Python.
+
+### How to Submit Your Product
 
 In order to submit your project, please send an email to admissions@makeschool.com with 
 
