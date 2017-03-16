@@ -37,9 +37,9 @@ Preference is given to fully shipped products written in Swift, JavaScript, Ruby
 
 ### How to Submit Your Product
 
-In order to submit your project, please send an email to admissions@makeschool.com with 
+In order to submit your project using [this form](make.sc/submit-project)
 
-1. Your full name
+1. Your Email
 1. A link to your live product
 1. A link to the GitHub.com repository of the product's code
 
