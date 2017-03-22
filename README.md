@@ -37,7 +37,7 @@ Preference is given to fully shipped products written in Swift, JavaScript, Ruby
 
 ### How to Submit Your Product
 
-In order to submit your project using [this form](make.sc/submit-project)
+In order to submit your project using [this form](http://make.sc/submit-project)
 
 1. Your Email
 1. A link to your live product
