@@ -14,8 +14,8 @@ The best sign of success for students who have joined the Product College in the
 
 Here are three ways we suggest that you follow to build a product and complete your application to the Product College:
 
-1. Prepare for and attend the [Summer Academy](https://www.makeschool.com/summer-academy). At the SA, work hard, accelerate, be in the top of the program and ship at least one original app to the app store (financial aid is available).
-2. Work on your own using the Make School Online Academy. Complete various tutorials and ship at least one original app to the app store. (Free)
+1. Prepare for and attend the [Summer Academy](https://www.makeschool.com/summer-academy). At the SA, work hard, accelerate, be in the top of the program and ship at least one original app to the app store (we recommend this option, financial aid is available).
+2. Learn to build iOS apps on your own through the [Make School Online Academy](https://www.makeschool.com/online-courses/online-academy). Complete various tutorials and ship at least one original app to the app store.
 3. Complete and ship an original software product on any framework or language. The product code must be available on a GitHub.com repo. The product is judged on the following merits:
   * Following web and mobile standards and conventions
   * Code craftsmanship (indentation, variable naming, etc)
